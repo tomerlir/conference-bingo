@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/conference-bingo/static/css/main.c385c113.css",
+    "main.js": "/conference-bingo/static/js/main.ba1ae70f.js",
+    "static/js/787.271736b9.chunk.js": "/conference-bingo/static/js/787.271736b9.chunk.js",
+    "index.html": "/conference-bingo/index.html",
+    "main.c385c113.css.map": "/conference-bingo/static/css/main.c385c113.css.map",
+    "main.ba1ae70f.js.map": "/conference-bingo/static/js/main.ba1ae70f.js.map",
+    "787.271736b9.chunk.js.map": "/conference-bingo/static/js/787.271736b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c385c113.css",
+    "static/js/main.ba1ae70f.js"
+  ]
+}
